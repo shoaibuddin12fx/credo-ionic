@@ -1,0 +1,7 @@
+{
+  "name": "credo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
